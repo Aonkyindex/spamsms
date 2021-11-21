@@ -8,21 +8,21 @@ print("\033[1;95m[3] \033[1;92mยิงอีเมล์")
 print("\033[1;95m[4] \033[1;92mแฮกเกอร์")
 print("\033[1;95m[00] \033[1;92mออก")
 print("")
-print("\033[1;91m[*] By: Aimbot Sorecode Time: 7/11/2021")
+print("\033[1;91m[*] By: AONKY Sorecode Time: 7/11/2021")
 print("")
 verfly = input("\033[90m> \033[1;97mEnter the attack : \033[1;96m")
 if verfly == '1':
-	os.system("python butter.py")
+	os.system("python buttmek.py")
 	
 if verfly == '2':
-	os.system("python butterA.py")
+	os.system("python Butteml.py")
 	
 if verfly == '3':
 	os.system("exit")
 	
 if verfly == '4':
-	os.system("python butterC.py")
+	os.system("python Buttme.py")
 	
 if verfly == '00':
-	print("\033[1;96mAimbot")
+	print("\033[1;96mAONKY")
 	os.system("exit")
